@@ -7,6 +7,7 @@ Main Goals:
 -Suggest what runes/items to buy on a certain champion (taking enemy champions into account)  
 -Suggest what champions to play against enemy team comps  
 -Track data of winrate based on different factors (time of day, games played in 1 session, whether you're playing with friends, etc)  
+-Track enemy team's total gold in real time (based on their farm + time in game)
 -Do it all with a good looking UI   
 -Profit 💵  
 
