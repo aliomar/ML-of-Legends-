@@ -10,3 +10,4 @@ Main Goals:
 -Do it all with a good looking UI   
 -Profit 💵  
 
+<iframe src="https://giphy.com/embed/mp0X9k8eVoVgI" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-regular-show-mad-stacks-mp0X9k8eVoVgI">via GIPHY</a></p>
