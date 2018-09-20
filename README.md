@@ -12,7 +12,8 @@ Main Goals:
 -Profit 💵  
   
   
+  
 First task:   
-1) Setup a pipeline to use YOLO9000 + OBS (or some other video recording software) to detect gamestate in real time   
+1) Setup a pipeline to use YOLO9000 + OBS (or some other video recording software) to detect gamestate in real time     
 2) Use the gamestate detection found in the previous step to calculate enemy gold/summoner spell cooldowns/ultimate cooldowns/ward timers in an overlay on top of the game (maybe investigate the platform overwolf is built on)   
 3) Use YOLO9000 (or some real time API) to automatically detect bans/your team picks/enemy team picks, and suggest best champion (in your position) to counter enemy picks      
